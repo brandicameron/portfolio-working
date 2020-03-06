@@ -1,0 +1,22 @@
+{
+  "name": "portfolio-working",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brandicameron/portfolio-working.git"
+  },
+  "author": "Brandi Cameron",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brandicameron/portfolio-working/issues"
+  },
+  "homepage": "https://github.com/brandicameron/portfolio-working#readme",
+  "dependencies": {
+    "lodash": "^4.17.15"
+  }
+}
